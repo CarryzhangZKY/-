@@ -1,2 +1,6 @@
-# -
-学习编程第一天
+#include<stdio.h>
+int main()
+{
+printf("lalla\n");
+return 0;
+}
